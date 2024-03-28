@@ -43,7 +43,7 @@
 <p align="center"> 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=dracula"/>
-  <br>
+  <br> <br>
   
  <p align="center">
 <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MertYazi&theme=dracula" />
@@ -60,6 +60,7 @@
   </tr>
 </table>  
 </div>
+<br>  <br>
 
 <div>
   <p align="center"> 
