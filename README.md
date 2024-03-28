@@ -16,7 +16,6 @@
 - 🎯 Checkout my app on <a href="https://play.google.com/store/apps/details?id=com.mertyazi.questionme" target="_blank">**Play Store**</a>
 
 - ✍️ If you wonder my account on <a href="https://stackoverflow.com/users/4058604/mert" target="_blank">**StackOverFlow**</a> or <a href="https://www.linkedin.com/in/mertyazi/" target="_blank">**LinkedIn**</a>
-
 &nbsp;
 
 <p align="left"> 
@@ -29,6 +28,7 @@
 <img width="50" height="60" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img width="50" height="50" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </div>
+&nbsp;
 
 <hr>
   
@@ -43,6 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=radical"/> 
  <p align="center">
 <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MertYazi&theme=tokyo-night&area=true&hide_border=true" />
+&nbsp;
 
 <div align="center">
 <table>
@@ -53,13 +54,14 @@
   </tr>
 </table>  
 </div>
+&nbsp;
 
-<h4> 
+<h3>
   <div> 
     <p>GitHub Trophies :trophy: </p> 
     <p align="center"> 
       <br> <br> 
       <img width=500 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
   </div> 
-</h4>
+</h3>
 </div>
