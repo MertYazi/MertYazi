@@ -1,13 +1,13 @@
-<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mert Yazı.</h1>
+<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mert Yazı</h1>
 <h2 align="center">Android Developer</h2>
 
 &nbsp;
 &nbsp;
 
 ### About Me: 🙋‍♂️
-- 🎓 I have **Computer Engineering Bachelor's** and **Philosophy Master's** Degrees.
+- 🎓 I have **Computer Engineering Bachelor's** and **Philosophy Master's** Degrees
 
-- 🌱 I’m currently diving into **Jetpack Compose**.
+- 🌱 I’m currently diving into **Jetpack Compose**
 
 - 💭 Happy to talk about **Android Development**
 
@@ -44,7 +44,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=dracula"/> 
  <p align="center">
-<img width="80%" alt="contributions graph" src="https://github-readme-streak-stats.herokuapp.com?user=MertYazi&theme=dracula&hide_border=true" />
+<img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MertYazi&theme=dracula" />
    
 &nbsp;
 
