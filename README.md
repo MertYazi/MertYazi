@@ -17,6 +17,8 @@
 
 - ✍️ If you wonder my account on <a href="https://stackoverflow.com/users/4058604/mert" target="_blank">**StackOverFlow**</a> or <a href="https://www.linkedin.com/in/mertyazi/" target="_blank">**LinkedIn**</a>
 
+&nbsp;
+
 <p align="left"> 
 <h3> Languages and Tools: :bulb: </h3>
 </p>
@@ -53,11 +55,11 @@
 </div>
 
 <h4> 
-  <details> 
-    <summary> GitHub Trophies :trophy: </summary> 
+  <div> 
+    <p>GitHub Trophies :trophy: </p> 
     <p align="center"> 
       <br> <br> 
       <img width=500 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
-  </details> 
+  </div> 
 </h4>
 </div>
