@@ -15,7 +15,7 @@
 
 - 🎯 Checkout my app on <a href="https://play.google.com/store/apps/details?id=com.mertyazi.questionme" target="_blank">**Play Store**</a>
 
-- ✍️ If you wonder my account on <a href="https://stackoverflow.com/users/4058604/mert" target="_blank">**StackOverFlow**</a> or <a href="https://www.linkedin.com/in/mertyazi/" target="_blank">**LinkedIn**</a>
+- ✍️ If you wonder my accounts on <a href="https://stackoverflow.com/users/4058604/mert" target="_blank">**StackOverFlow**</a> or <a href="https://www.linkedin.com/in/mertyazi/" target="_blank">**LinkedIn**</a>
 
 &nbsp;
 
