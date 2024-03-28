@@ -33,7 +33,6 @@
 &nbsp;
 
 <hr>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MertYazi&theme=dracula&hide_border=true)](https://git.io/streak-stats)
   
 <div>
     <p align="center"> 
@@ -66,7 +65,7 @@
     <p>GitHub Trophies :trophy: </p> 
     <p align="center"> 
       <br> <br> 
-      <img width=500 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=dracula"/> 
+      <img width=500 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=dracula&margin-w=15&column=2&margin-h=15"/> 
   </div> 
 </h3>
 </div>
