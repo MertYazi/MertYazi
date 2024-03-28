@@ -42,7 +42,8 @@
   
 <p align="center"> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=dracula"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=dracula"/>
+  &nbsp;
  <p align="center">
 <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MertYazi&theme=dracula" />
  </p>
@@ -62,8 +63,7 @@
 &nbsp;
 
 <h3>
-  <div> 
-    <p>GitHub Trophies :trophy: </p> 
+  <div>
     <p align="center"> 
       <br> <br> 
       <img width=450 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=dracula&margin-w=20&column=4&margin-h=20"/> 
