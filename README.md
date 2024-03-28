@@ -45,11 +45,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=dracula"/>
   <br> <br>
   
- <p align="center">
+ <!--<p align="center">
 <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MertYazi&theme=dracula" />
- </p>
-
-&nbsp;
+ </p>-->
 
 <div align="center">
 <table>
