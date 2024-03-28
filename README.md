@@ -16,6 +16,7 @@
 - 🎯 Checkout my app on <a href="https://play.google.com/store/apps/details?id=com.mertyazi.questionme" target="_blank">**Play Store**</a>
 
 - ✍️ If you wonder my account on <a href="https://stackoverflow.com/users/4058604/mert" target="_blank">**StackOverFlow**</a> or <a href="https://www.linkedin.com/in/mertyazi/" target="_blank">**LinkedIn**</a>
+
 &nbsp;
 
 <p align="left"> 
@@ -28,9 +29,11 @@
 <img width="50" height="60" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img width="50" height="50" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </div>
+
 &nbsp;
 
 <hr>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MertYazi&theme=dracula&hide_border=true)](https://git.io/streak-stats)
   
 <div>
     <p align="center"> 
@@ -40,20 +43,22 @@
   
 <p align="center"> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=radical"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertYazi&theme=dracula"/> 
  <p align="center">
-<img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MertYazi&theme=tokyo-night&area=true&hide_border=true" />
+<img width="80%" alt="contributions graph" src="https://github-readme-streak-stats.herokuapp.com?user=MertYazi&theme=dracula&hide_border=true" />
+   
 &nbsp;
 
 <div align="center">
 <table>
   <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=MertYazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mert Yazı" />
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MertYazi&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mert Yazı" /></td>
+  <img src="https://github-readme-stats.vercel.app/api?username=MertYazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula" alt="Mert Yazı" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MertYazi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Mert Yazı" /></td>
   </tr>
 </table>  
 </div>
+
 &nbsp;
 
 <h3>
@@ -61,7 +66,7 @@
     <p>GitHub Trophies :trophy: </p> 
     <p align="center"> 
       <br> <br> 
-      <img width=500 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
+      <img width=500 src="https://github-profile-trophy.vercel.app/?username=MertYazi&theme=dracula"/> 
   </div> 
 </h3>
 </div>
